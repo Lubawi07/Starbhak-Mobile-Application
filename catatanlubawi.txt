@@ -1,0 +1,2 @@
+Untuk menambahkan package splash ke project adalah dengan cara = dart run flutter_native_splash:create --path=path/to/my/file.yaml . dart run flutter_native_splash:create  --path=flutter_native_splash.yaml adalah tempat path kita 
+Untuk menghapusnya karna pada saat color nya tidak diubah padahal sudah diubah di flutter_native_splash.yaml nya itu dikarenakan dia sudah diperintahkan oleh kita untuk file tersebut menjadi permanen dart run flutter_native_splash:remove  --path=flutter_native_splash.yaml
